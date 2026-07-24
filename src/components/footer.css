@@ -1,0 +1,22 @@
+.footer{
+    width:100%;
+    margin-top:40px;
+    padding:18px 10px;
+    background:rgba(0,0,0,0.8);
+    color:#ffffff;
+    text-align:center;
+    font-size:15px;
+    border-top:2px solid rgba(255,255,255,0.2);
+}
+
+.footer strong{
+    color:#0ea5e9;
+}
+
+@media (max-width:768px){
+    .footer{
+        font-size:13px;
+        padding:15px 8px;
+        line-height:1.6;
+    }
+}
