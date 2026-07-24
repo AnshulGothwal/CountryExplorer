@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -10,5 +10,4 @@ const Footer = () => {
     </footer>
   );
 };
-
 export default Footer;

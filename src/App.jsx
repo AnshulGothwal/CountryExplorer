@@ -5,7 +5,7 @@ import Card from "./components/Card";
 import {useState,useEffect} from 'react';
 import { Routes, Route } from "react-router-dom";
 import CountryDetails from "./components/CountryDetails";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 function App() {
   const [countries, setCountries] = useState([]);
