@@ -1,6 +1,6 @@
 # 🌎Country Explorer
 
-A modern and responsive Country Explorer built using **React.js & Vite**. It allows users to explore Movies, TV Series, and Anime with an attractive UI, search functionality, sorting, and Searching options.
+A modern and responsive Country Explorer built using **React.js & Vite**. It allows users to explore Countries details with an attractive Cards UI, search functionality, sorting, and pagenation options.
 
 ## 🚀 Live Demo
 
