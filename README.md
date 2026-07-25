@@ -8,7 +8,7 @@ A modern and responsive Country Explorer built using **React.js & Vite**. It all
 
 ## 📸 Screenshots
 
-![Home Page](./img.png)
+![Home Page](./src/img.png)
 
 ## ✨ Features
 
