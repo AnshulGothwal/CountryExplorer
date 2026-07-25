@@ -1,16 +1,34 @@
-# React + Vite
+# 🌎Country Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive Country Explorer built using **React.js & Vite**. It allows users to explore Movies, TV Series, and Anime with an attractive UI, search functionality, sorting, and Searching options.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://country-explorer-zeta-five.vercel.app
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Home Page](./img.png)
 
-## Expanding the Oxlint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* 🎥 Browse Country Explorer.
+* 🔍 Search by Name.
+* 🎭 Filter by Region
+* 🎨 Dark-themed modern UI
+* 📱 Fully responsive design
+* 💳 Clean and interactive movie cards
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* React.js & Vite
+* JSON (Local Database)
+
+## 👨‍💻 Author
+
+**Anshul Gothwal**
+
+GitHub: https://github.com/AnshulGothwal
