@@ -14,7 +14,7 @@ return(
    <div className="country-details">
     <img src={country.flags.png} alt={country.name.common}/>
     <div className="details">
-        <h1>{country.name.common}</h1>
+        <h1 id="countryname">{country.name.common}</h1>
         <p><strong>Population:</strong> {country.population.toLocaleString()}</p>
         <p><strong>Region:</strong> {country.region}</p>
         <p><strong>Sub Region:</strong> {country.subregion}</p>
