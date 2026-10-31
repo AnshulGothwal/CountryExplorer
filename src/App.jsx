@@ -72,6 +72,9 @@ const currentCountries = filteredCountries.slice(firstIndex,lastIndex);
   return (
   <>
   <Routes>
+      <video className="bg-video" autoPlay loop muted playsInline>
+        <source src="/background1.mp4" type="video/mp4" />
+      </video>
 
     {/* Home Page */}
     <Route
