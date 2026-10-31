@@ -19,7 +19,7 @@ body{
     opacity: 1;
     z-index: -1;
     pointer-events: none;
-    filter: blur(0.1px) brightness(0.7);
+    filter: blur(0px) brightness(0.7);
 }
 
 .navbar{
