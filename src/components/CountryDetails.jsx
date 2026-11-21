@@ -17,7 +17,6 @@ return(
         <h1 id="countryname">{country.name.common}</h1>
         <p><strong>Population:</strong> {country.population.toLocaleString()}</p>
         <p><strong>Region:</strong> {country.region}</p>
-        <p><strong>Sub Region:</strong> {country.subregion}</p>
         <p><strong>Capital:</strong> {country.capital?.[0]}</p>
         <p><strong>Currency:</strong> {country.currency}</p>
         <p><strong>Language:</strong> {country.language}</p>
